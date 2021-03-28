@@ -303,6 +303,20 @@ The following list was created by users like you. Feel free to add yours. The pr
       </td>
     </tr>
     <tr>
+      <td><code>cli</code></td>
+      <td>
+        <p>
+          Tool that generates classes for command line parsing using <a href="https://github.com/commandlineparser/commandline">CommandLine nuget</a>.
+        </p>
+        <p>
+          <strong>Project site:</strong> <a href="https://github.com/loxsmoke/cli">GitHub</a>
+          <br />
+          <strong>Author:</strong> <a href="https://github.com/loxsmoke">@loxsmoke</a>
+        </p>
+        <code>dotnet tool install -g <a href="https://www.nuget.org/packages/LoxSmoke.cli">loxsmoke.cli</a></code>
+      </td>
+    </tr>
+    <tr>
       <td><code>codeconv</code></td>
       <td>
         <p>
